@@ -1,0 +1,18 @@
+body{
+    background: darkblue;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: #bada55;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    color: #bada55;
+}
+.active{
+    color: #ffffff;
+}
